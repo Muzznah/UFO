@@ -1,5 +1,4 @@
 # UFO Sightings 
-## Webpage Snapshot:
 ![](https://github.com/Muzznah/UFO/blob/master/static/images/webpage.png)
 ## Purpose:
 To build a webpage and dynamic table, that uses advanced filtering capability to allow users to filter the data by multiple factors. Html and javascript was used to build the webpage, table and filters.The deployed filters allow users to filter by, the date, city, state, country and shape, for an in-depth analysis of UFO sightings data.
