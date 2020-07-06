@@ -10,6 +10,7 @@ Bootsrtap and CSS was used for styling and polishing the webpage and table. Foll
   - table dark effect
   - table responsive
   - table hover effect
+  -text formatting
 ## Resources:
 Data: [<data.js>](https://github.com/Muzznah/UFO/blob/master/static/js/data.js)
 
