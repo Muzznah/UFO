@@ -12,7 +12,7 @@ Bootsrtap and CSS was used for styling and polishing the webpage and table. Foll
   - table hover effect
   -text formatting
 
-For detailed code see[app.js](https://github.com/Muzznah/UFO/blob/master/static/js/app.js)
+For detailed code see [<app.js>](https://github.com/Muzznah/UFO/blob/master/static/js/app.js)
 ## Resources:
 Data: [<data.js>](https://github.com/Muzznah/UFO/blob/master/static/js/data.js)
 
